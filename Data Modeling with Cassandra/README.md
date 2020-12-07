@@ -14,7 +14,7 @@ The Cassandra database tables are modeled based on the queries Sparkify team wan
 An ETL pipeline is created to transfers data from a set of CSV files within a directory to create a streamlined CSV file to model and insert data into Apache Cassandra tables.
 
 
-### Project Steps
+## Project Steps
 Below are steps you can follow to complete each component of this project.
 
 #### Modeling your NoSQL database or Apache Cassandra database
